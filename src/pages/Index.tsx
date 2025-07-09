@@ -45,7 +45,7 @@ const Index = () => {
             />
             
             <div className="text-xl md:text-2xl text-gray-300 mb-6 font-mono">
-              <span className="text-green-400">&gt;</span> Digital Security Researcher
+              <span className="text-green-400">&gt;</span> HACKER
             </div>
           </div>
 

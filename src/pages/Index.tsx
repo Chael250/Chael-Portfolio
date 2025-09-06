@@ -14,12 +14,10 @@ const Index = () => {
   }, []);
 
   const skills = [
-    "Full Stack Development",
     "Cybersecurity Research", 
-    "System Architecture",
+    "Capture The Flag (CTF)",
     "Penetration Testing",
-    "Networking Expert",
-    "DevOps & CI/CD"
+    "Networking Expert"
   ];
 
   return (
